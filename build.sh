@@ -28,6 +28,7 @@ cat > index.html <<HTML
 <meta name="twitter:card" content="summary_large_image">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Behroz Asghar","jobTitle":"Strategic & Multidisciplinary Designer","url":"https://www.behrozasghar.online/","image":"https://www.behrozasghar.online/images/behroz-cutout.png","email":"mailto:behrozasghar7@gmail.com","sameAs":["https://www.linkedin.com/in/behrozasghar/","https://www.behance.net/behrozasghar"]}</script>
 $FONTS
+<link rel="preload" href="assets/css/style.css" as="style">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
