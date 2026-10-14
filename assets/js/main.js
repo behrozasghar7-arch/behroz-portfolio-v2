@@ -66,9 +66,9 @@
     var codeEl = $('#code'), who = $('#who'), stageLabel = $('#stage-label'), playBtn = $('#s-play');
     var card = $('#ui-card'), cardIm = $('#ui-im'), cardName = $('#ui-name'), cardCat = $('#ui-cat');
     var PROJECTS = [
-      { name: 'Alpha Leon', cat: 'Brand Identity', img: 'images/alpha-leon.png', file: 'alpha-leon.png', url: 'https://www.behance.net/gallery/251471999/Alpha-Leon' },
-      { name: 'RevsetLabs', cat: 'Brand Identity', img: 'images/revsetlabs.png', file: 'revsetlabs.png', url: 'https://www.behance.net/gallery/251372189/RevsetLabs' },
-      { name: 'Jee Aya Nu', cat: 'Brand Identity & Collateral', img: 'images/jee-aya-nu.jpg', file: 'jee-aya-nu.jpg', url: 'https://www.behance.net/gallery/210649061/Jee-Aya-Nu' }
+      { name: 'Alpha Leon', cat: 'Brand Identity', img: 'images/alpha-leon.webp', file: 'alpha-leon.webp', url: 'https://www.behance.net/gallery/251471999/Alpha-Leon' },
+      { name: 'RevsetLabs', cat: 'Brand Identity', img: 'images/revsetlabs.webp', file: 'revsetlabs.webp', url: 'https://www.behance.net/gallery/251372189/RevsetLabs' },
+      { name: 'Jee Aya Nu', cat: 'Brand Identity & Collateral', img: 'images/jee-aya-nu.webp', file: 'jee-aya-nu.webp', url: 'https://www.behance.net/gallery/210649061/Jee-Aya-Nu' }
     ];
     var st = { p: 0, theme: 'light', r: 12, mono: true };
     var paused = false, step = 0, timer = null, typing = null, visible = true, changed = '';

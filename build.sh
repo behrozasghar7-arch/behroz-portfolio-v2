@@ -40,6 +40,7 @@ HTML
 cat > site.html <<HTML
 <title>Behroz Asghar</title>
 $FONTS
+<link rel="preload" href="assets/css/style.css" as="style">
 <link rel="stylesheet" href="assets/css/style.css">
 $BODY
 <script src="assets/js/main.js"></script>

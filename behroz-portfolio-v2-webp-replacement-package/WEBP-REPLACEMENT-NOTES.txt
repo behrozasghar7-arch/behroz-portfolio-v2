@@ -1,1 +1,0 @@
-This package includes replacement WebP images and updated references. Suggested branch target: performance/optimize-loading
